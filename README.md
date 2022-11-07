@@ -1,4 +1,4 @@
-sd# new_application
+# new_application
 
 A new Flutter project.
 
